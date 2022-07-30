@@ -11,9 +11,9 @@ export default defineConfig({
       "@": fileURLToPath(new URL("./src", import.meta.url)),
     },
   },
-  root: "./src/main",
+  root: "./src/admin",
   build: {
     emptyOutDir: true,
-    outDir: "../../dist",
+    outDir: "../../dist-admin",
   },
 });

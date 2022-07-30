@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
+    "dev-admin": "vite --config vite.config.admin.js",
     "build": "vite build",
+    "build-admin": "vite build --config vite.config.admin.js",
     "preview": "vite preview --port 4173",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
