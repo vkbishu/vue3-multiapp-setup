@@ -1,14 +1,15 @@
 # app-setup
 
-This template should help get you started developing with Vue 3 in Vite.
+Create multiple vue3 app on a single setup. Here is what you can do with this setup:
+
+- Share your components between projects
+- Share your assets between projects
+- Share your store (if needed) between projects
+- Generate seperate builds for your projects.
 
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
